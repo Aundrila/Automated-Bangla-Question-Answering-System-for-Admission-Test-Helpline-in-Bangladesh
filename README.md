@@ -8,3 +8,9 @@ A **natural language processing (NLP)** project that enables **question answerin
 * Implements tokenization, text preprocessing, and embedding techniques for Bengali.
 * Fine-tuned on Bengali QA datasets for improved accuracy.
 * Provides an interactive interface or API for testing queries.
+
+## Tools and Libraries
+-- **Programming Language:** Python
+- **NLP Frameworks:** Hugging Face Transformers, TensorFlow/PyTorch
+- **Libraries:** NumPy, Pandas, Scikit-learn, NLTK
+- - **Pretrained Models:** BanglaBERT, mBERT, T5
