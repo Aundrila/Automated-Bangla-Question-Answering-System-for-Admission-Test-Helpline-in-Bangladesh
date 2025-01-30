@@ -14,3 +14,10 @@ A **natural language processing (NLP)** project that enables **question answerin
 - **NLP Frameworks:** Hugging Face Transformers, TensorFlow/PyTorch
 - **Libraries:** NumPy, Pandas, Scikit-learn, NLTK
 - **Pretrained Models:** BanglaBERT, mBERT, T5
+
+## How It Works
+1. Input: User provides a question and a reference text (context).
+2.Processing:
+  * The model tokenizes and processes the text.
+  * It uses transformer attention mechanisms to find relevant parts.
+3. Output: The system returns the most probable answer span or generates an answer.
